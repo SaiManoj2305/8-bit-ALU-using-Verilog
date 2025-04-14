@@ -44,15 +44,17 @@ A complete testbench is included to verify the correctness of all ALU operations
 
 <br>
 
-![Main ALU RTL](https://your-image-link-here)
+![schematic](https://github.com/user-attachments/assets/5e1809de-beb4-4cdc-8767-87337f17ca26)
+
+
 
 ---
 
-### 📷 Internal View (Submodules and Logic Blocks)
+### 📷 Waveform 
 
 <br>
 
-![ALU Internals RTL](https://your-second-image-link-here)
+![waveform](https://github.com/user-attachments/assets/b302c6d1-c713-4ad0-bc5d-e45f33fd37d8)
 
 ---
 
