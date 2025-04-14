@@ -1,13 +1,11 @@
-This project contains a Verilog implementation of an 8-bit Arithmetic Logic Unit (ALU). The ALU performs a range of arithmetic and logic operations including addition, subtraction, bitwise AND, OR, XOR, NOT, left and right shifts, increment, decrement, and basic comparison checks. The design is modular, easy to understand, and suitable for both educational and practical digital design purposes. A testbench is included to simulate and verify the functionality of the ALU using standard Verilog simulation tools.
-Perfect! Here's a README-style description modeled closely after the example you shared, tailored for your **8-bit ALU in Verilog** project:
-
 ---
 
 # 8-Bit-ALU  
 Verilog RTL Implementation of an 8-bit Arithmetic Logic Unit capable of performing basic arithmetic and logic operations.
 
 ---
-
+  This project contains a Verilog implementation of an 8-bit Arithmetic Logic Unit (ALU). The ALU performs a range of arithmetic and logic operations including addition, subtraction, bitwise AND, OR, XOR, NOT, left and right shifts, increment, decrement, and basic comparison checks. The design is modular, easy to understand, and suitable for both educational and practical digital design purposes. A testbench is included to simulate and verify the functionality of the ALU using standard Verilog simulation tools.
+  
 ### 📌 `operation[3:0]` — Supported Operations
 
 | Code | Operation        |
@@ -24,7 +22,6 @@ Verilog RTL Implementation of an 8-bit Arithmetic Logic Unit capable of performi
 | 1001 | Decrement         |
 | 1010 | Compare (A == B)  |
 
-> Flags: Zero, Carry, Negative, Overflow (based on operation)
 
 ---
 
@@ -44,7 +41,6 @@ A complete testbench is included to verify the correctness of all ALU operations
 
 ### 📷 RTL Schematic of the Main (ALU) Module
 
-> *(Replace these images with your own screenshots from your RTL viewer or simulation tool)*
 
 <br>
 
@@ -60,4 +56,3 @@ A complete testbench is included to verify the correctness of all ALU operations
 
 ---
 
-Let me know if you'd like help generating RTL schematics or how to insert your own screenshots!
